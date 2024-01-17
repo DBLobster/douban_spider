@@ -1,5 +1,11 @@
 # douban_spider
+
 豆瓣图片爬虫，可爬需要登录验证的图片。
+
+依赖 BeautifulSoup 和 Requests:
+
+    pip install beautifulsoup4
+    pip install requests
 
 例子：爬取长泽雅美的豆瓣个人页图片
 
